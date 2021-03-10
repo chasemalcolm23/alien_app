@@ -1,0 +1,40 @@
+a {
+    color: rgb(71, 133, 51);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+
+}
+
+h1 {
+
+}
+
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-image: url("images/space.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: rgb(71, 133, 51)
+}
+
+.class {
+    
+}
+
+#navigation {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: rgb(71, 133, 51)
+}
+
+
+.list-follow {
+    padding-left: 80px;
+}
